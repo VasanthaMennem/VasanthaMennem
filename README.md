@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VasanthaMennem
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning full stack development 
+- 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on job prep
 - 📫 How to reach me insta id: @vaishu_013
 - 😄 Pronouns:She
